@@ -1,0 +1,5 @@
+.idea
+bin
+GoDemo.iml
+*.exe
+cards.txt
